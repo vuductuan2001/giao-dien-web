@@ -57,6 +57,12 @@
 	width: 300px;
 	text-align: right;
 }
+#shop{color: #ccc}
+.menu{
+	width: 1050px;
+	padding: 0px;
+	border-bottom: 1px solid #eee;
+}
 .menu ul li{
 	display: block;
 	padding: 10px;
@@ -66,3 +72,13 @@
 	text-decoration: none;
 }
 .clr{clear: both;}
+.anh1 img{
+	width: 650px;
+	float: left;
+}
+.anh2 img{
+	width: 211px;
+}
+.khunganhto{
+	padding: 10px;
+}
