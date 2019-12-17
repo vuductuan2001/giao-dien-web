@@ -22,3 +22,47 @@
 .khungtren img{
 	float: left;
 }
+.container2{
+	width: 1600px;
+	background-color:#eee;
+}
+.tongthe{
+	width: 1050px;
+	margin: auto;
+	background-color: white;
+}
+.quocgia{
+	color: #ccc;
+	display: inline-block;
+}
+.tieude{
+	float: left;
+	width: 500px;
+}
+.tieude1{
+	width: 500px;
+	float: left;
+	text-align: right;
+}
+.market{
+	display: inline-block;
+}
+.market1{
+	float: left;
+	width: 559px;
+	text-align: right;
+}
+.market2{
+	float: left;
+	width: 300px;
+	text-align: right;
+}
+.menu ul li{
+	display: block;
+	padding: 10px;
+	float: left;
+}
+.menu a{
+	text-decoration: none;
+}
+.clr{clear: both;}
