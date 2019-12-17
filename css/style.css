@@ -6,19 +6,19 @@
 	width: 1600px;
 	background-color: black;
 }
-.menu{
+.khungtren{
 	width: 1050px;
 	height: 45px;
 	margin: auto;
 }
-.menu2{
+.khungtren2{
 	color: white;
 }
-.menu1{
+.khungtren1{
 	margin: auto;
 	width: 350px;
 	float: left;
 }
-.menu img{
+.khungtren img{
 	float: left;
 }
